@@ -230,7 +230,7 @@ game_active = False
 score = 0
 collision_numb = 0
 bg_music = pygame.mixer.Sound(resource_path('audio/bg_music.mp3'))
-# bg_music.play(loops = -1)
+bg_music.play(loops = -1)
 
 # Groups
 
